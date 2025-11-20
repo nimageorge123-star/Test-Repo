@@ -54,7 +54,7 @@ public class Stringexample {
 		System.out.println(String.valueOf(a));
 		
 		
-		//==-->it is used to compare object references,meaning it check the meaning it checks if two variables point to the same memory location.
+		//==-->it is used to compare object references,meaning it checks if two variables point to the same memory location.
 		//On the other hand, the .equals() method is used to compare the values of objects.
 		
 		String S8= "Hello world";
